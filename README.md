@@ -19,7 +19,6 @@ INSTALLATIONS
     npm install morgan --save
     npm install body-parser --save
     npm install method-override --save
-
 </pre>
 
 - Install MongoDB locally. Follow the steps on the MongoDB website:
