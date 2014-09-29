@@ -13,12 +13,14 @@ INSTALLATIONS
 
 - Install node packages:
 
-	npm install express --save
-	npm install mongoose --save
-	npm install morgan --save
-	npm install body-parser --save
-	npm install method-override --save
+<pre>
+    npm install express --save
+    npm install mongoose --save
+    npm install morgan --save
+    npm install body-parser --save
+    npm install method-override --save
 
+</pre>
 
 - Install MongoDB locally. Follow the steps on the MongoDB website:
 
