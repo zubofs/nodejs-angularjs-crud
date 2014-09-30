@@ -1,4 +1,4 @@
-INSTALLATIONS
+Installations
 =============
 
 - Install Node.js from:
@@ -20,16 +20,17 @@ INSTALLATIONS
 	http://docs.mongodb.org/manual/installation/
 
 
-RUNNING
+Running
 =======
 
 - Run mongodb by giving db path:
 <pre>
-	mongod --dbpath <path>
+	mongod --dbpath <i>path</i>
 </pre>
 
 - Run the server.js with Node.js:
 <pre>
 	node server.js
 </pre>
+
 
