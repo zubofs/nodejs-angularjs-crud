@@ -1,8 +1,3 @@
-nodejs-angularjs-crud
-=====================
-Node.js, Express.js, MongoDB and Mongoose CRUD
-
-
 INSTALLATIONS
 =============
 
@@ -12,7 +7,6 @@ INSTALLATIONS
 
 
 - Install node packages:
-
 <pre>
     npm install express --save
     npm install mongoose --save
@@ -24,4 +18,18 @@ INSTALLATIONS
 - Install MongoDB locally. Follow the steps on the MongoDB website:
 
 	http://docs.mongodb.org/manual/installation/
+
+
+RUNNING
+=======
+
+- Run mongodb by giving db path:
+<pre>
+	mongod --dbpath <path>
+</pre>
+
+- Run the server.js with Node.js:
+<pre>
+	node server.js
+</pre>
 
